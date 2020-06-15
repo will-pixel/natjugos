@@ -1,0 +1,33 @@
+@media (max-width: 600px){
+    body{
+        background: yellow;
+    }
+
+    .products{
+        display: inherit;
+        height: auto;
+    }
+
+    .product{
+        margin-top: auto;
+    }
+/*
+    .img_content{
+        background: red;
+        image-resolution: 50px;
+    }
+*/
+    .img_content img{
+        width: 200px;
+        height: 200px;
+    }
+
+    .main_section{
+        padding: 4%;
+    }
+
+    .products2, .cards{
+        display: inherit;
+    }
+
+}
